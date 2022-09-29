@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there is Andyyoung0507, I like Chinese Chess and running! 👋
+
+- 🔭 I’m currently pursuing my PhD at UCAS.
+- 🤔 I’m Currently interested in the interdisciplinary study of edge computing and AI.
+- 😄 Under construction...
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andyyoung0507&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Andyyoung0507)](https://github.com/anuraghazra/github-readme-stats) -->
+
 
 <!--
 **Andyyoung0507/Andyyoung0507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
